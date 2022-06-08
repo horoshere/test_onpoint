@@ -1,0 +1,14 @@
+footer {
+  padding: 20px 0;
+}
+.copy {
+  text-align: center;
+  font-size: 14px;
+  font-weight: 500;
+  a {
+    color: $main_color;
+    &:hover {
+      color: $navcolor;
+    }
+  }
+}
